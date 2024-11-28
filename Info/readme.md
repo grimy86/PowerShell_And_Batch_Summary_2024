@@ -55,7 +55,6 @@ do {
    $array[$counter]
    $counter += 1
 } while($counter -lt $array.length)
-}
 ```
 
 ## Conditions
